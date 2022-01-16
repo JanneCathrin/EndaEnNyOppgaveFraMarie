@@ -1,0 +1,5 @@
+C:\Users\JaneC\OneDrive\Dokumenter\MODUL3\EndaEnNyOppgaveFraMarie\obj\Debug\net5.0\EndaEnNyOppgaveFraMarie.csproj.AssemblyReference.cache
+C:\Users\JaneC\OneDrive\Dokumenter\MODUL3\EndaEnNyOppgaveFraMarie\obj\Debug\net5.0\EndaEnNyOppgaveFraMarie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JaneC\OneDrive\Dokumenter\MODUL3\EndaEnNyOppgaveFraMarie\obj\Debug\net5.0\EndaEnNyOppgaveFraMarie.AssemblyInfoInputs.cache
+C:\Users\JaneC\OneDrive\Dokumenter\MODUL3\EndaEnNyOppgaveFraMarie\obj\Debug\net5.0\EndaEnNyOppgaveFraMarie.AssemblyInfo.cs
+C:\Users\JaneC\OneDrive\Dokumenter\MODUL3\EndaEnNyOppgaveFraMarie\obj\Debug\net5.0\EndaEnNyOppgaveFraMarie.csproj.CoreCompileInputs.cache
